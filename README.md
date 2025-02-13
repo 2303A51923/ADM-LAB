@@ -8,5 +8,6 @@ ADM-LAB
 
 #Assignment-04(https://github.com/2303A51923/ADM-LAB/blob/main/ADM_LAB_04.ipynb)
 
+#Assignment-05(https://github.com/2303A51923/ADM-LAB/blob/main/ADM_LAB_05.ipynb)
 
 
