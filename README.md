@@ -12,4 +12,6 @@ ADM-LAB
 
 #Assignment-06(https://github.com/2303A51923/ADM-LAB/blob/main/ADM_LAB_06.ipynb)
 
+#Assignment-07(https://github.com/2303A51923/ADM-LAB/blob/main/ADM_LAB_07.ipynb)
+
 
